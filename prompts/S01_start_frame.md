@@ -9,7 +9,7 @@
 | 샷 / 앵글 / 렌즈 | CU / 콘크리트 높이의 로우앵글 / 망원 느낌(85mm 상당), 얕은 심도 |
 | 손 배치 | 남자 손은 화면 왼쪽에서, 여자 손은 오른쪽에서. 손끝 간격 약 4cm, 간격이 화면 중앙 |
 | 해 위치 | 손끝 사이 빈틈 바로 뒤, 수평선 바로 위 |
-| 소품 | 남자 손목에 얇은 은색 체인 팔찌, 여자는 맨손에 짧은 자연 손톱 |
+| 소품·의상 | 남자: 얇은 은색 체인 팔찌 + 흰 셔츠 소맷단 / 여자: 장신구 없는 맨손, 짧은 자연 손톱 + 흰 아일렛 소매 |
 | 영상 움직임 | 손이 천천히 다가가 손끝이 닿음 / 카메라는 아주 느린 푸시인 → 시작 프레임은 여유 있게 약간 넓게 |
 | 비율 | 16:9 (힉스필드 화면의 비율 설정도 16:9) |
 | 저장 파일명 | `S01_start.png` |
@@ -17,7 +17,7 @@
 ```
 Cinematic close-up, low angle with the camera resting almost on the concrete surface, telephoto portrait-lens look with very shallow depth of field.
 
-Two human hands rest palm-down on a rough pale grey concrete ledge beside a wide river at sunset. A young man's hand reaches in from the left side of the frame; he wears a thin polished silver chain bracelet on his wrist, loose enough to sit just above the wrist bone. A young woman's slimmer hand reaches in from the right side of the frame, bare, with natural short clean nails. Only the hands and a little of each forearm are visible, the forearms entering from the lower left and lower right edges.
+Two human hands rest palm-down on a rough pale grey concrete ledge beside a wide river at sunset. A young man's hand reaches in from the left side of the frame; he wears a thin polished silver chain bracelet on his wrist, loose enough to sit just above the wrist bone. A young woman's slimmer hand reaches in from the right side of the frame, bare, with natural short clean nails. Only the hands and a little of each forearm are visible, the forearms entering from the lower left and lower right edges: the man's forearm shows the rolled cuff of a clean white cotton shirt at the lower left edge, and the woman's forearm shows the edge of a white eyelet cotton sleeve at the lower right edge, both sleeves glowing warm cream in the backlight.
 
 Placement: the hands sit in the middle band of the frame, together about 35% of the frame height. Their fingertips point toward each other and stay about four centimeters apart, and that small empty gap sits exactly at the horizontal center of the frame. Each hand has five natural, well-formed, relaxed fingers with realistic knuckles, tendons and fine skin creases. The fingertips lift very slightly off the concrete, as if about to move.
 
