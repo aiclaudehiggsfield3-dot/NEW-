@@ -15,7 +15,7 @@ ACTIVE REFERENCES
 LOCATION MAP
 Foreground: rough pale grey concrete ledge surface, fine grain and small pits catching the low sun, runs horizontally across the lower third.
 Midground: the two hands, sharp, centered, the gap between the fingertips on the vertical center line.
-Background: wide river surface glittering with orange sun sparkles, far city skyline dissolved into soft amber bokeh, the sun sitting low just above the horizon on the upper right, behind the hands.
+Background: wide river surface glittering with orange sun sparkles, far city skyline dissolved into soft amber bokeh, the low sun sitting just above the horizon directly behind the gap between the fingertips.
 Camera sits low at ledge height on the shadow side, facing into the sun.
 
 FIRST FRAME / BLOCKING
@@ -56,4 +56,4 @@ OUTPUT SETTINGS
 16:9, real-time speed, 24 fps cinematic motion, 1080p or higher.
 
 POSITIVE LOCKS
-Only two hands in frame, the man's from frame left with the silver bracelet, the woman's from frame right. Each hand keeps five well-formed fingers. Focus stays on the fingertips. The sun stays behind the hands on the upper right for the whole shot. Ends on fingertips lightly touching and holding still.
+Only two hands in frame, the man's from frame left with the silver bracelet, the woman's from frame right. Each hand keeps five well-formed fingers. Focus stays on the fingertips. The sun stays directly behind the gap between the fingertips for the whole shot. Ends on fingertips lightly touching and holding still.
