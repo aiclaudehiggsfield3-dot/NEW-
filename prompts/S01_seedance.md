@@ -53,7 +53,7 @@ STYLE
 Photoreal cinematic music-video opening, romantic and reflective, fine 35mm-style film grain, soft halation around highlights.
 
 OUTPUT SETTINGS
-16:9, real-time speed, 24 fps cinematic motion, 1080p or higher.
+16:9, real-time speed, 24 fps cinematic motion, 720p.
 
 POSITIVE LOCKS
 Only two hands in frame, the man's from frame left with the silver bracelet, the woman's from frame right. Each hand keeps five well-formed fingers. Focus stays on the fingertips. The sun stays directly behind the gap between the fingertips for the whole shot. Ends on fingertips lightly touching and holding still.
